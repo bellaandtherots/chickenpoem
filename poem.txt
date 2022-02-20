@@ -2,6 +2,7 @@ The Chicken
 
 Pecking
 Eating
+Scrapping
 Egging
 Crowing
 These are what chickens love.
