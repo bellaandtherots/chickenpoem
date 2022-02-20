@@ -1,4 +1,6 @@
 The Chicken and the chicks
+like Corn
+
 
 
 
@@ -8,4 +10,4 @@ Eating
 Scrapping
 Egging
 Crowing
-These are what chickens and chicks love.
+These and corn are what chickens and chicks love.
